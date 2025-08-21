@@ -28,6 +28,6 @@ React_Page_Basic/
 ├── package.json
 └── README.md
 ```
-##Screenshort;
+## 👍Screenshort:
 ![image-alt](https://github.com/Ishu335/React_Basic_Page1/blob/c8a5b3c54df219fcd5f1f37b542ec71458d89c8b/src/images/React%20Page.png)
 
